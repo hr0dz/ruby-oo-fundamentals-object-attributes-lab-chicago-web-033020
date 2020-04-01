@@ -15,3 +15,4 @@ end
 class Dog
   def initializaton(name)
     @name = name
+  end
