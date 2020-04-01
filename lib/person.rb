@@ -8,4 +8,5 @@ class Person
   end
   
   def job=(teach)
+    @job = teach
     
