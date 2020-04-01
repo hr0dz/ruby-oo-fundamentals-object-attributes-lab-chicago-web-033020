@@ -1,7 +1,6 @@
 class Dog
   def initializaton(breed)
     @breed = breed
-    @breed
   end
   
   def breed
