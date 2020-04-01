@@ -11,4 +11,7 @@ class Person
     @job = teach
   end
 end
-    
+   
+class Person
+  def initialization(name)
+    @name = name
