@@ -12,4 +12,6 @@ class Dog
     @breed = teach
   end
 end
-  
+
+class Dog
+  def initializaton(name)
