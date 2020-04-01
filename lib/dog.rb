@@ -23,3 +23,4 @@ class Dog
   
   def name=(teach)
     @name = teach
+  end
