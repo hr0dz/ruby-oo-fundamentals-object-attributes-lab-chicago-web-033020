@@ -7,3 +7,5 @@ class Dog
     @breed
   end
   
+  def breed=(teach)
+  
