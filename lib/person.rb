@@ -20,3 +20,6 @@ class Person
   def name
     @name
   end
+  
+  def name=(teach)
+    @name = teach
