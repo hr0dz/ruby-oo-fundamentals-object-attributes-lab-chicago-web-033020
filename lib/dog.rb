@@ -8,4 +8,5 @@ class Dog
   end
   
   def breed=(teach)
+    @breed = teach
   
