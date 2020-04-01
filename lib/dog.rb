@@ -22,4 +22,4 @@ class Dog
   end
   
   def name=(teach)
-    @name = 
+    @name = teach
